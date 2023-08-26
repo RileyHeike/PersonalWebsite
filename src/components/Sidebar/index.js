@@ -8,11 +8,11 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
     <div className='nav-bar'>
-        <Link className='logo' to='/PersonalWebsite'>
+        <Link className='logo' to='/PersonalWebsite/'>
             <img src={LogoRH} alt="logo" />
         </Link>
         <nav>
-            <NavLink exact="true" activeclassname="active" to="/PersonalWebsite">
+            <NavLink exact="true" activeclassname="active" to="/PersonalWebsite/">
                 <FontAwesomeIcon icon={faHome} color = "#4d4d4e" />
             </NavLink>
             <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
