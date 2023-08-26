@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RileyHeike.github.io/PersonalWebsite/static/css/main.937e53d6.css",
-    "main.js": "/RileyHeike.github.io/PersonalWebsite/static/js/main.bb2cb8e0.js",
-    "static/js/787.a2cb61a6.chunk.js": "/RileyHeike.github.io/PersonalWebsite/static/js/787.a2cb61a6.chunk.js",
-    "static/media/portrait.png": "/RileyHeike.github.io/PersonalWebsite/static/media/portrait.bbcade7dc37caeeed2c8.png",
-    "static/media/map.png": "/RileyHeike.github.io/PersonalWebsite/static/media/map.740f156c601bc1c013d6.png",
-    "static/media/waterdrop.png": "/RileyHeike.github.io/PersonalWebsite/static/media/waterdrop.fa42fd2256b3d6f32129.png",
-    "static/media/helvetica-neu.ttf": "/RileyHeike.github.io/PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/RileyHeike.github.io/PersonalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/RileyHeike.github.io/PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/RileyHeike.github.io/PersonalWebsite/index.html",
-    "main.937e53d6.css.map": "/RileyHeike.github.io/PersonalWebsite/static/css/main.937e53d6.css.map",
-    "main.bb2cb8e0.js.map": "/RileyHeike.github.io/PersonalWebsite/static/js/main.bb2cb8e0.js.map",
-    "787.a2cb61a6.chunk.js.map": "/RileyHeike.github.io/PersonalWebsite/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/PersonalWebsite/static/css/main.0d480e90.css",
+    "main.js": "/PersonalWebsite/static/js/main.b243a2d6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/PersonalWebsite/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portrait.png": "/PersonalWebsite/static/media/portrait.bbcade7dc37caeeed2c8.png",
+    "static/media/map.png": "/PersonalWebsite/static/media/map.740f156c601bc1c013d6.png",
+    "static/media/waterdrop.png": "/PersonalWebsite/static/media/waterdrop.fa42fd2256b3d6f32129.png",
+    "static/media/helvetica-neu.ttf": "/PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/PersonalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.0d480e90.css.map": "/PersonalWebsite/static/css/main.0d480e90.css.map",
+    "main.b243a2d6.js.map": "/PersonalWebsite/static/js/main.b243a2d6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/PersonalWebsite/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.937e53d6.css",
-    "static/js/main.bb2cb8e0.js"
+    "static/css/main.0d480e90.css",
+    "static/js/main.b243a2d6.js"
   ]
 }
