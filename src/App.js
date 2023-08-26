@@ -12,9 +12,9 @@ function App() {
     <Routes>
       <Route path="/PersonalWebsite" element={<Layout />}>
         <Route index element={<Home />} />
-        <Route exact path="/about" element={<About />} />
-        <Route exact path="/contact" element={<Contact />} />
-        <Route exact path='/portfolio' element={<Portfolio />} />
+        <Route exact path="/PersonalWebsite/about" element={<About />} />
+        <Route exact path="/PersonalWebsite/contact" element={<Contact />} />
+        <Route exact path='/PersonalWebsite/portfolio' element={<Portfolio />} />
       </Route>
     </Routes>
     </>
