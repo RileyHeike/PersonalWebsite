@@ -9,7 +9,7 @@ import Portfolio from './components/Portfolio';
 function App() {
   return (
     <>
-    <Routes>
+    <Routes basename="/PersonalWebsite">
       <Route path="/PersonalWebsite" element={<Layout />}>
         <Route index element={<Home />} />
         <Route path="/PersonalWebsite/about" element={<About />} />
