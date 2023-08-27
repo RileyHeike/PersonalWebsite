@@ -37,7 +37,7 @@ const Portfolio = () => {
                         <div className="text">
                         <h2 className="project-title">Project Safe Water</h2>
                             <p className="project-description">
-                            Led 6-person team to develop website that evaluated water safety and accessibility across 48 states, using flask/python, API calls, and HMTL/CSS/JS for <a className="devpost-link" href="https://devpost.com/software/project-safe-water">SCU Hack For Humanity 2023</a>
+                            Led 6-person team to develop website that evaluated water safety and accessibility across 48 states, using flask/python, API calls, and HMTL/CSS/JS for <a className="devpost-link" href="https://devpost.com/software/project-safe-water" target="_blank">SCU Hack For Humanity 2023</a>
                             </p>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ const Portfolio = () => {
                         <div className="text">
                         <h2 className="project-title">Transportation Optimized</h2>
                             <p className="project-description">
-                            Created website that optimized travel times between two destinations based on traffic and construction, using Node.js, geocoding and INRIX APIs for <a className="devpost-link" href="https://devpost.com/software/transportation-optimized-task-list">INRIX Hack 2022</a>
+                            Created website that optimized travel times between two destinations based on traffic and construction, using Node.js, geocoding and INRIX APIs for <a className="devpost-link" href="https://devpost.com/software/transportation-optimized-task-list" target="_blank">INRIX Hack 2022</a>
                             </p>
                         </div>
                     </div>
