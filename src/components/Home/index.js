@@ -35,7 +35,7 @@ const Home = () => {
                     index={15} />
                     </h1>
                     <h2>Computer Science and Engineering Student at Santa Clara University</h2>
-                    <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+                    <Link to="/PersonalWebsite/contact" className='flat-button'>CONTACT ME</Link>
                 </div>
                 <Logo />
             </div>
