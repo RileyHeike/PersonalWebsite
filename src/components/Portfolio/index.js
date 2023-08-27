@@ -48,7 +48,7 @@ const Portfolio = () => {
                         <div className="text">
                         <h2 className="project-title">Transportation Optimized</h2>
                             <p className="project-description">
-                            Created website that optimized travel times between two destinations based on traffic and construction, using Node.js, geocoding and INRIX APIs for <a className="devpost-link" href="https://devpost.com/software/project-safe-water">INRIX Hack 2022</a>
+                            Created website that optimized travel times between two destinations based on traffic and construction, using Node.js, geocoding and INRIX APIs for <a className="devpost-link" href="https://devpost.com/software/transportation-optimized-task-list">INRIX Hack 2022</a>
                             </p>
                         </div>
                     </div>
